@@ -2,4 +2,6 @@
 bin/
 .classpath
 .project
-
+.idea
+/target
+*.iml

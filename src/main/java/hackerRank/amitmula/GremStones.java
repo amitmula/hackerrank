@@ -1,3 +1,5 @@
+package hackerRank.amitmula;
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -22,7 +24,7 @@ public class GremStones {
 	public static void main(String[] args) {
 		GremStones sol = new GremStones();
 		int N = 0;
-		HashSet<Character> commonElements = new HashSet<>();
+		HashSet<Character> commonElements = new HashSet<Character>();
 		Scanner scanner = new Scanner(System.in);
     	N = scanner.nextInt();
     	
